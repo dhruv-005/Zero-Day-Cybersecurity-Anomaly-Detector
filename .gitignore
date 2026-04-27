@@ -1,0 +1,17 @@
+# Ignore generated data and model files
+data/
+models/
+
+# Ignore Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ignore virtual environment
+venv/
+.env
+
+# Ignore system files
+.DS_Store
+*.log
