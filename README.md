@@ -475,7 +475,7 @@ Pipeline Output <img width="1366" height="601" alt="Screenshot_2026-04-27_17_59_
 
 ```
 ╔══════════════════════════════════════════════════════════╗
-║           🗺️  ZERO-DAY DETECTOR ROADMAP                   ║
+║           🗺️  ZERO-DAY DETECTOR ROADMAP                  ║
 ╚══════════════════════════════════════════════════════════╝
 ```
 
@@ -500,16 +500,13 @@ This project is licensed under the **MIT License** — see the [LICENSE](LICENSE
 
 ```
 MIT License — Free to use, modify, and distribute with attribution.
-Copyright (c) 2024 Dhruv Sonani
+Copyright (c) 2026 Dhruv Sonani
 ```
 
 ---
-
 ## 👤 Author
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:16213E,50:0F3460,100:533483&height=120&section=footer&fontSize=16&fontColor=00FF41&text=Built%20with%20%F0%9F%9B%A1%EF%B8%8F%20for%20the%20Cybersecurity%20Community&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 ### 🛡️ Dhruv Sonani
 
@@ -525,7 +522,7 @@ Copyright (c) 2024 Dhruv Sonani
 
 ---
 
-**🔴 Built with the cybersecurity community — contributions welcome! 🔴**
+**🔴 Built for the cybersecurity community — contributions welcome! 🔴**
 
 **⭐ Star this repo if it helped you think differently about AI security ⭐**
 
