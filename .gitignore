@@ -1,6 +1,9 @@
-# Ignore generated data and model files
-data/
-models/
+# Ignore generated files but keep folder structure
+data/*
+!data/.gitkeep
+
+models/*
+!models/.gitkeep
 
 # Ignore Python cache
 __pycache__/
@@ -15,10 +18,3 @@ venv/
 # Ignore system files
 .DS_Store
 *.log
-
-# Ignore generated files but keep folder structure
-data/*
-!data/.gitkeep
-
-models/*
-!models/.gitkeep
